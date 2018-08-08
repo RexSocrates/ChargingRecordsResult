@@ -1,0 +1,67 @@
+Number of devices : 30
+Reservation scheme : Fixed scheme
+Monthly data allowance : 9750
+Default GU :    50
+
+UE ID : 422Signals : 3613
+Session successful rate :   100%
+UE ID : 556Signals : 8957
+Session successful rate :   100%
+UE ID : 806Signals : 2629
+Session successful rate :   100%
+UE ID : 1000Signals : 10221
+Session successful rate :   100%
+UE ID : 1286Signals : 12469
+Session successful rate :   100%
+UE ID : 1572Signals : 7193
+Session successful rate :   100%
+UE ID : 2028Signals : 2657
+Session successful rate :   100%
+UE ID : 2542Signals : 17873
+Session successful rate :   100%
+UE ID : 2796Signals : 11385
+Session successful rate :   100%
+UE ID : 2892Signals : 12953
+Session successful rate :   100%
+UE ID : 3379Signals : 31101
+Session successful rate :   100%
+UE ID : 4038Signals : 43785
+Session successful rate :   100%
+UE ID : 4075Signals : 27309
+Session successful rate :   100%
+UE ID : 4440Signals : 45897
+Session successful rate :   100%
+UE ID : 4515Signals : 6085
+Session successful rate :   100%
+UE ID : 4671Signals : 43557
+Session successful rate :   100%
+UE ID : 5666Signals : 88453
+Session successful rate :   100%
+UE ID : 5893Signals : 8597
+Session successful rate :   100%
+UE ID : 5930Signals : 3325
+Session successful rate :   100%
+UE ID : 6536Signals : 8481
+Session successful rate :   100%
+UE ID : 6963Signals : 65265
+Session successful rate :   100%
+UE ID : 7846Signals : 24669
+Session successful rate :   100%
+UE ID : 8147Signals : 14529
+Session successful rate :   100%
+UE ID : 8262Signals : 22481
+Session successful rate :   100%
+UE ID : 8320Signals : 16461
+Session successful rate :   100%
+UE ID : 8607Signals : 15921
+Session successful rate :   100%
+UE ID : 8740Signals : 36845
+Session successful rate :   100%
+UE ID : 8949Signals : 26521
+Session successful rate :   100%
+UE ID : 9180Signals : 32577
+Session successful rate :   100%
+UE ID : 9461Signals : 42833
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 694642

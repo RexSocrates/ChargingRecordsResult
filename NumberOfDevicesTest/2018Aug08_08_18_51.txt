@@ -1,0 +1,67 @@
+Number of devices : 30
+Reservation scheme : Multiplicative scheme
+Monthly data allowance : 9750
+Default GU :    50
+
+UE ID : 136Signals : 3405
+Session successful rate :    86%
+UE ID : 1029Signals : 2857
+Session successful rate :    86%
+UE ID : 1063Signals : 6985
+Session successful rate :    86%
+UE ID : 1260Signals : 9373
+Session successful rate :    86%
+UE ID : 1284Signals : 4165
+Session successful rate :    86%
+UE ID : 1447Signals : 8321
+Session successful rate :    86%
+UE ID : 2388Signals : 7601
+Session successful rate :    86%
+UE ID : 2424Signals : 4573
+Session successful rate :    86%
+UE ID : 2872Signals : 5393
+Session successful rate :    86%
+UE ID : 3183Signals : 9937
+Session successful rate :    86%
+UE ID : 3405Signals : 1751
+Session successful rate :    86%
+UE ID : 3445Signals : 4929
+Session successful rate :    86%
+UE ID : 3512Signals : 3817
+Session successful rate :    86%
+UE ID : 3563Signals : 12297
+Session successful rate :    86%
+UE ID : 4091Signals : 5297
+Session successful rate :    86%
+UE ID : 4236Signals : 13897
+Session successful rate :    86%
+UE ID : 4269Signals : 18069
+Session successful rate :    86%
+UE ID : 4763Signals : 12025
+Session successful rate :    86%
+UE ID : 4783Signals : 7417
+Session successful rate :    86%
+UE ID : 4822Signals : 8201
+Session successful rate :    86%
+UE ID : 5752Signals : 23321
+Session successful rate :    86%
+UE ID : 5928Signals : 4149
+Session successful rate :    86%
+UE ID : 7060Signals : 16997
+Session successful rate :    86%
+UE ID : 7243Signals : 11253
+Session successful rate :    86%
+UE ID : 8051Signals : 10921
+Session successful rate :    86%
+UE ID : 8322Signals : 7033
+Session successful rate :    86%
+UE ID : 8328Signals : 5369
+Session successful rate :    86%
+UE ID : 8652Signals : 11285
+Session successful rate :    86%
+UE ID : 8660Signals : 10921
+Session successful rate :    86%
+UE ID : 9420Signals : 8569
+Session successful rate :    86%
+Average successful rate : 86.170635%
+Total signals : 260128

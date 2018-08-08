@@ -1,0 +1,47 @@
+Number of devices : 20
+Reservation scheme : Fixed scheme
+Monthly data allowance : 6500
+Default GU :    90
+
+UE ID : 607Signals : 1879
+Session successful rate :   100%
+UE ID : 650Signals : 11117
+Session successful rate :   100%
+UE ID : 786Signals : 1649
+Session successful rate :   100%
+UE ID : 1147Signals : 24369
+Session successful rate :   100%
+UE ID : 2255Signals : 8821
+Session successful rate :   100%
+UE ID : 3286Signals : 19557
+Session successful rate :   100%
+UE ID : 3727Signals : 18885
+Session successful rate :   100%
+UE ID : 4170Signals : 37293
+Session successful rate :   100%
+UE ID : 4724Signals : 9093
+Session successful rate :   100%
+UE ID : 4872Signals : 24813
+Session successful rate :   100%
+UE ID : 5587Signals : 3645
+Session successful rate :   100%
+UE ID : 6613Signals : 4669
+Session successful rate :   100%
+UE ID : 6818Signals : 3355
+Session successful rate :   100%
+UE ID : 6845Signals : 26041
+Session successful rate :   100%
+UE ID : 6925Signals : 7077
+Session successful rate :   100%
+UE ID : 9019Signals : 22337
+Session successful rate :   100%
+UE ID : 9100Signals : 13133
+Session successful rate :   100%
+UE ID : 9203Signals : 7593
+Session successful rate :   100%
+UE ID : 9504Signals : 2513
+Session successful rate :   100%
+UE ID : 9797Signals : 8561
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 256400
