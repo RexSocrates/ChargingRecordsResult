@@ -1,0 +1,147 @@
+Number of devices : 70
+Reservation scheme : Inventory-based Reservation Scheme
+Monthly data allowance : 22750
+Default GU :    50
+
+UE ID : 7Signals : 467
+Session successful rate :   100%
+UE ID : 276Signals : 477
+Session successful rate :   100%
+UE ID : 409Signals : 447
+Session successful rate :   100%
+UE ID : 448Signals : 407
+Session successful rate :   100%
+UE ID : 540Signals : 417
+Session successful rate :   100%
+UE ID : 625Signals : 517
+Session successful rate :   100%
+UE ID : 660Signals : 487
+Session successful rate :   100%
+UE ID : 1012Signals : 457
+Session successful rate :   100%
+UE ID : 1325Signals : 557
+Session successful rate :   100%
+UE ID : 1372Signals : 791
+Session successful rate :   100%
+UE ID : 1414Signals : 487
+Session successful rate :   100%
+UE ID : 1564Signals : 627
+Session successful rate :   100%
+UE ID : 1635Signals : 677
+Session successful rate :   100%
+UE ID : 1915Signals : 427
+Session successful rate :   100%
+UE ID : 1971Signals : 497
+Session successful rate :   100%
+UE ID : 2076Signals : 761
+Session successful rate :   100%
+UE ID : 2160Signals : 737
+Session successful rate :   100%
+UE ID : 2204Signals : 447
+Session successful rate :   100%
+UE ID : 2265Signals : 447
+Session successful rate :   100%
+UE ID : 2283Signals : 667
+Session successful rate :   100%
+UE ID : 2532Signals : 447
+Session successful rate :   100%
+UE ID : 2600Signals : 367
+Session successful rate :   100%
+UE ID : 2631Signals : 427
+Session successful rate :   100%
+UE ID : 2766Signals : 707
+Session successful rate :   100%
+UE ID : 2843Signals : 407
+Session successful rate :   100%
+UE ID : 2866Signals : 707
+Session successful rate :   100%
+UE ID : 3340Signals : 347
+Session successful rate :   100%
+UE ID : 3371Signals : 387
+Session successful rate :   100%
+UE ID : 3745Signals : 447
+Session successful rate :   100%
+UE ID : 3813Signals : 287
+Session successful rate :   100%
+UE ID : 3843Signals : 427
+Session successful rate :   100%
+UE ID : 4093Signals : 487
+Session successful rate :   100%
+UE ID : 4217Signals : 437
+Session successful rate :   100%
+UE ID : 4242Signals : 397
+Session successful rate :   100%
+UE ID : 4275Signals : 467
+Session successful rate :   100%
+UE ID : 4293Signals : 487
+Session successful rate :   100%
+UE ID : 4468Signals : 397
+Session successful rate :   100%
+UE ID : 4479Signals : 107
+Session successful rate :   100%
+UE ID : 4839Signals : 547
+Session successful rate :   100%
+UE ID : 4866Signals : 517
+Session successful rate :   100%
+UE ID : 4893Signals : 727
+Session successful rate :   100%
+UE ID : 5171Signals : 437
+Session successful rate :   100%
+UE ID : 5507Signals : 707
+Session successful rate :   100%
+UE ID : 5547Signals : 517
+Session successful rate :   100%
+UE ID : 5698Signals : 407
+Session successful rate :   100%
+UE ID : 5723Signals : 721
+Session successful rate :   100%
+UE ID : 5725Signals : 527
+Session successful rate :   100%
+UE ID : 5855Signals : 487
+Session successful rate :   100%
+UE ID : 6279Signals : 437
+Session successful rate :   100%
+UE ID : 6488Signals : 287
+Session successful rate :   100%
+UE ID : 6512Signals : 297
+Session successful rate :   100%
+UE ID : 6519Signals : 777
+Session successful rate :   100%
+UE ID : 6743Signals : 477
+Session successful rate :   100%
+UE ID : 7157Signals : 437
+Session successful rate :   100%
+UE ID : 7370Signals : 577
+Session successful rate :   100%
+UE ID : 7420Signals : 587
+Session successful rate :   100%
+UE ID : 7501Signals : 417
+Session successful rate :   100%
+UE ID : 7602Signals : 427
+Session successful rate :   100%
+UE ID : 7626Signals : 1765
+Session successful rate :   100%
+UE ID : 8085Signals : 547
+Session successful rate :   100%
+UE ID : 8102Signals : 547
+Session successful rate :   100%
+UE ID : 8308Signals : 517
+Session successful rate :   100%
+UE ID : 8500Signals : 667
+Session successful rate :   100%
+UE ID : 8652Signals : 667
+Session successful rate :   100%
+UE ID : 8665Signals : 477
+Session successful rate :   100%
+UE ID : 8843Signals : 457
+Session successful rate :   100%
+UE ID : 8976Signals : 537
+Session successful rate :   100%
+UE ID : 9124Signals : 437
+Session successful rate :   100%
+UE ID : 9334Signals : 879
+Session successful rate :   100%
+UE ID : 9480Signals : 737
+Session successful rate :   100%
+Average successful rate : 100.000000%
+Total signals : 37082
